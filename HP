@@ -1,0 +1,20 @@
+#EXTM3U
+#EXTINF:0 group-title="Harry Potter"
+ 
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Harry Potter", Harry Potter 1 e a Pedra Filosofal
+http://hele8081.azureedge.net/RCFServer1/ondemand/HRYPTR01.mp4?attachment=true
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Harry Potter", Harry Potter 2 e a Camara Secreta
+http://hele8081.azureedge.net/RCFServer1/ondemand/HRYPTR02.mp4?attachment=true
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Harry Potter", Harry Potter 3 e o Prisioneiro de Azkaban
+http://hele8081.azureedge.net/RCFServer1/ondemand/HRYPTR03.mp4?attachment=true
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Harry Potter", Harry Potter 4 e o Calice de Fogo
+http://hele8081.azureedge.net/RCFServer1/ondemand/HRYPTR04.mp4?attachment=true
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Harry Potter", Harry Potter 5 e a Ordem da Fenix
+http://hele8081.azureedge.net/RCFServer1/ondemand/HRYPTR05.mp4?attachment=true
+#EXTINF:-1 tvg-logo="https://lhmtv.tech/logo/bonus.png"group-title="Harry Potter", Harry Potter 6 e o Enigma do Príncipe
+http://hele8081.azureedge.net/RCFServer1/ondemand/HRYPTR06.mp4?attachment=true
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Harry Potter", Harry Potter 7 Reliquias da Morte: Parte 1
+http://hele8081.azureedge.net/RCFServer1/ondemand/HRYPTR07.mp4?attachment=true
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Harry Potter", Harry Potter 8 Reliquias da Morte: Parte 2
+http://hele8081.azureedge.net/RCFServer1/ondemand/HRYPTR08.mp4?attachment=true
+
